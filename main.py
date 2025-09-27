@@ -11,7 +11,7 @@ import sys
 pygame.init()
 WIDTH, HEIGHT = 800, 600
 screen = pygame.display.set_mode((WIDTH, HEIGHT))
-pygame.display.set_caption("Dodge the Blocks (Pro)")
+pygame.display.set_caption("Dodge the Blocks")
 clock = pygame.time.Clock()
 
 # UI manager for all buttons and labels
