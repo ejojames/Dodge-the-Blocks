@@ -25,3 +25,11 @@ Dodge falling blocks, keep your lives, and try to get the highest score!
 5. Survive as long as possible and get a high score!
 
 ---
+
+Requirements
+
+Python 3.8+
+
+pygame
+
+pygame_gui
